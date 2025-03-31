@@ -1,6 +1,6 @@
 # Password Generator 🔑  
 
-This repository contains a simple script that generates a random password.  
+This repository has a simple script that generates a random password.  
 
 ## Code in This Repo  
 ```python
